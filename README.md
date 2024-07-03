@@ -3,3 +3,4 @@ Django projesinin amaçları:
 -serializer kullanımı amaçlandı
 -Django Rest Frameworküne giriş yapıldı
 -model oluşturuldu ve migrasyonları yapıldı
+-generic olarak temel CRUD işlemleri yapılmayı amaçlandı
